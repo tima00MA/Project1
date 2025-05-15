@@ -1,0 +1,2 @@
+fatima.dao.DaoImpl
+fatima.metier.MetierImpl
