@@ -124,7 +124,7 @@ System.out.println("Res=" + metier.calcul());
 ---
 
 
-## ✨ Requirements
+## Requirements
 
 * Java 8+
 * Spring Framework 5.x
@@ -157,7 +157,7 @@ Make sure classes are annotated with `@Component`, then run `PresSpringAnnotatio
 
 ---
 
-## 🚀 Author
+## Author
 
 Developed by **Fatima** for learning and demonstration of DI and Spring framework basics.
 [LinkedIn Profile](https://www.linkedin.com/in/fatima-al-b11039263/)
